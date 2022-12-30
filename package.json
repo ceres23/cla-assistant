@@ -83,7 +83,7 @@
         "karma-phantomjs-launcher": "1.0.4",
         "load-grunt-tasks": "^4.0.0",
         "mkdirp": "0.5.1",
-        "mocha": "^6.1.4",
+        "mocha": "^10.2.0",
         "phantomjs-prebuilt": "^2.1.16",
         "rewire": "^4.0.1",
         "should": "^13.2.3",
