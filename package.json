@@ -19,7 +19,7 @@
     "bugs": "https://github.com/cla-assistant/cla-assistant/issues",
     "contributors": [],
     "dependencies": {
-        "@google-cloud/trace-agent": "^4.2.5",
+        "@google-cloud/trace-agent": "^5.1.0",
         "@octokit/plugin-retry": "^2.2.0",
         "@octokit/plugin-throttling": "^2.4.0",
         "@octokit/rest": "^16.37.0",
@@ -49,7 +49,7 @@
         "merge": ">=1.2.1",
         "mongoose": "^5.7.5",
         "node-fetch": "^2.6.1",
-        "node-sass-middleware": "^0.11.0",
+        "node-sass-middleware": "^1.0.0",
         "passport": "^0.4.0",
         "passport-accesstoken": "^0.1.0",
         "passport-github": "^1.1.0",
